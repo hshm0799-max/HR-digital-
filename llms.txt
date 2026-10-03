@@ -1,0 +1,13 @@
+# HR Digital
+
+> HR Digital is a digital marketing and website agency serving businesses across India. Services: SEO, AEO/GEO, Meta Ads, Google Ads, Google Business Profile optimisation, social media marketing, website development and branding.
+
+Contact: +91 70618 99614 (call / WhatsApp) | hshm0799@gmail.com
+
+## Key pages
+- [Home](https://hrzoteck.online/): agency overview and FAQs
+- [Services](https://hrzoteck.online/services.html): what we offer
+- [Meta Ads Basics](https://hrzoteck.online/meta-ads.html): campaign structure, metrics and tracking
+- [All India Locations](https://hrzoteck.online/locations.html): cities and states we serve
+- [Pricing](https://hrzoteck.online/pricing.html)
+- [Contact](https://hrzoteck.online/contact.html)
